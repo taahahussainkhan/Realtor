@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-I am a frontend engineer and i created this project
+I am a frontend engineer and i created this project, currently working is intern @ Bytewise
